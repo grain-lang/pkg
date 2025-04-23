@@ -296,10 +296,10 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.57.1.tgz#de633db3ec2ef6a3c89e2f19038063e8a122e2c2"
   integrity sha512-d9zaMRSTIKDLhctzH12MtXvJKSSUhaHcjV+2Z+GK+EEY7XKpP5yR4x+N3TAcHTcu963nIr+TMcCb4DBCYX1z6Q==
 
-"@grain/pkg-fetch@3.6.0":
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/@grain/pkg-fetch/-/pkg-fetch-3.6.0.tgz#7ceab7feca085c72913cd9e8bfa2e667e87cef69"
-  integrity sha512-kG68eHDHRBhtVNYgHyftj24A0JHaL0zoyKRyO8lvHvhC5aJqcKfdTqcYV7VD4CzDhfWo8MTZZISUDIvhtAb4yA==
+"@grain/pkg-fetch@3.6.1":
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/@grain/pkg-fetch/-/pkg-fetch-3.6.1.tgz#4bb824faf889536e16679f48f2df266d4c0ec4a5"
+  integrity sha512-sHCESFZ9lRJAsXPepzGESGxXIo+eeX5ziXV5NGozJoPCT88A438XmZsZDR7r/3arOdhdbesn0Qqd/OoVmPPr0Q==
   dependencies:
     https-proxy-agent "^5.0.0"
     node-fetch "^2.6.6"
