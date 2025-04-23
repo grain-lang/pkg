@@ -5,7 +5,7 @@
 const path = require('path');
 const assert = require('assert');
 const utils = require('../utils.js');
-const fetch = require('@yao-pkg/pkg-fetch');
+const fetch = require('@grain/pkg-fetch');
 
 assert(!module.parent);
 assert(__dirname === process.cwd());

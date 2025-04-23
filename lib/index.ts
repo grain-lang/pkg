@@ -4,7 +4,7 @@ import assert from 'assert';
 import { existsSync, readFileSync, writeFileSync, copyFileSync } from 'fs';
 import { mkdir, readFile, rm, stat } from 'fs/promises';
 import minimist from 'minimist';
-import { need, system } from '@yao-pkg/pkg-fetch';
+import { need, system } from '@grain/pkg-fetch';
 import path from 'path';
 
 import { log, wasReported } from './log';
